@@ -7,6 +7,7 @@ Lista de software usadas para cooperativa.
 - [Nextcloud](https://nextcloud.com/)
 - [Kimai](https://www.kimai.org/)
 - [Akaunting](https://akaunting.com/)
+- [FOSSBilling](https://fossbilling.org/)
 
 ## Agradecimento
 
