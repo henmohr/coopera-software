@@ -12,4 +12,4 @@ Lista de software usadas para cooperativa.
 
 Essa lista começou a ser feita com ajuda do [Vitor Mattos](https://github.com/vitormattos) falando de alguns softwares que usam na [LibreCode](https://librecode.coop/)
 
-## Licensa MIT
+## Licença MIT
